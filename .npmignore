@@ -8,3 +8,5 @@ bin/node
 .pairs
 appveyor.yml
 coffeelint.json
+yarn-error.log
+yarn.lock
